@@ -1,0 +1,53 @@
+.head-bar {
+  margin-left: 55px;
+  font-family: sans-serif;
+}
+
+.Sub-head {
+  width: 320px;
+  text-align: center;
+ margin-bottom: 555px;
+  position: absolute ;
+  font-family: sans-serif;
+}
+
+.Avant-bar {
+  padding: 20px;
+  width: 390px;
+
+}
+.last-bar {
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  width: 820px;
+  margin-left: 75px;
+  margin-top: 45px;
+}
+
+.box-bar {
+  background-color: rgb(255, 162, 0);
+  width: 430px;
+  padding: 5px;
+  border-radius: 55px 3px 45px ;
+  border: 20px;
+  font-family: sans-serif;
+  position: absolute;
+  margin-right: 175px;
+}
+
+.cover-head {
+height: 350px;
+background-color: grey;
+padding: 20px;
+position: absolute;
+width: 1020px;
+font-family: sans-serif;
+margin-right: 475px;
+margin-top: 275px;
+}
+
+.pre-head {
+  margin-top: 120px;
+  width: 720px;
+}
